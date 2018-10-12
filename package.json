@@ -1,0 +1,14 @@
+{
+  "name": "growthculture",
+  "version": "1.0.0",
+  "description": "Presentation on Building a cuture of growth and learning",
+  "main": "index.js",
+  "scripts": {
+    "start": "mdx-deck deck.mdx"
+  },
+  "author": "Tre Ammatuna",
+  "license": "ISC",
+  "devDependencies": {
+    "mdx-deck": "^1.7.7"
+  }
+}
